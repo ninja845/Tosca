@@ -1,0 +1,96 @@
+[3] 9:45:54 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Exercises\AS1 Exercises.tws'
+[3] 9:45:54 AM: Log level: 4
+[3] 9:45:54 AM: Release: 16.0.5.3129
+[3] 9:45:55 AM: Execution Approval is disabled.
+[3] 9:45:55 AM: No service discovery configured.
+[3] 9:45:55 AM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.5.3129 (3129)
+[3] 9:45:55 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.5.3129 (3129)
+[3] 9:45:55 AM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.5.3129 (3129)
+[3] 9:45:55 AM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.5.3129 (3129)
+[3] 9:45:55 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.5.3129 (3129)
+[3] 9:45:55 AM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.5.3129 (3129)
+    + : SAPSolutionManagerIntegration 16.0.5.3129 (3129)
+[3] 9:45:56 AM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 9:45:56 AM: Searcher found 0 results in 93.2541 ms
+[3] 9:45:56 AM:  + OptIntAddIn: OptIntAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + RemoteControl: RemoteControlAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + Reporting: ReportingAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + ReportingUI: ReportingUIAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + RequirementsManagementAddIn: RequirementsManagement 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + TestCaseDesign: TestCaseDesign 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + XDefinitions: XDefinitions 16.0.5.3129 (3129)
+[3] 9:45:56 AM:  + XDefinitionsUI: XDefinitionsUI 16.0.5.3129 (3129)
+[3] 9:45:56 AM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Exercises\AS1 Exercises.tws'
+[3] 9:45:56 AM: OpenWorkspace took 00:00:03.7429139 to finish
+[2] 9:45:56 AM: Common repository is not available
+[4] 9:45:58 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 9:46:02 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 9:46:03 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 9:46:08 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:11 AM:  ShowStatusInfo: '1 object selected'
+[4] 9:46:14 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 9:46:14 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:14 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 9:46:14 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:14 AM:  ShowStatusInfo: 'Refresh view finished'
+[4] 9:46:17 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 9:46:17 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:17 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 9:46:17 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:17 AM:  ShowStatusInfo: 'Refresh view finished'
+[4] 9:46:20 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:20 AM:  ShowStatusInfo: '1 object selected'
+[4] 9:46:25 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:25 AM:  ShowStatusInfo: '1 object selected'
+[4] 9:46:27 AM:  ShowStatusInfo: 'Ready'
+[4] 9:46:27 AM:  ShowStatusInfo: '1 object selected'
+[4] 9:46:32 AM:  ShowStatusInfo: 'Ready'
